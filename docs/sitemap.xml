@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>benmateev.com/valuesandactions/categories/</loc>
+    <loc>valuesandactions/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>benmateev.com/valuesandactions/</loc>
+    <loc>valuesandactions/</loc>
   </url>
   
   <url>
-    <loc>benmateev.com/valuesandactions/tags/</loc>
+    <loc>valuesandactions/tags/</loc>
     <priority>0</priority>
   </url>
   
