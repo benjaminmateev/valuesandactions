@@ -1,4 +1,5 @@
 theme = "reveal-hugo"
+publishDir = "docs"
 
 [outputFormats.Reveal]
 baseName = "index"
